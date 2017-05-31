@@ -4,8 +4,9 @@ This is a super easy to use elastic menu jquery plugin
 
 ## How to use ?
 
-1 - include the .css and .js file
-2 - Put the "elastic-menu" class in your list that you wnat to create a ElasticMenu
+####1 - include the .css and .js file
+
+####2 - Put the "elastic-menu" class in your list that you wnat to create a ElasticMenu
 ```html
 <ul id="example" class="elastic-menu">
   <li><a href="">Example scope</a></li>
@@ -15,6 +16,8 @@ This is a super easy to use elastic menu jquery plugin
   <li><a href="">Example scope</a></li>
 </ul>
 ```
+
+####3 - Set your ID or CLASS element in elasticMenu() plugin
 ```jQuery
 $("#example").elasticMenu();
 ```
