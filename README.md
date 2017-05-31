@@ -18,12 +18,12 @@ This is a super easy to use elastic menu jquery plugin
 ```
 
 #### 3 - Set your ID or CLASS element in elasticMenu() plugin
-```jQuery
+```javascript
 $("#example").elasticMenu();
 ```
 
 ## Settings
-```jQuery
+```javascript
 $("#example").elasticMenu({
     direction : "horizontal", // default : vertical
     background : "#ec407a", // default : #0d47a1
